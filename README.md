@@ -3,6 +3,18 @@
 English | [简体中文](README_zh-cn.md)  
 EconomyCore for [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
 
+# Installation
+
+## Use Lip
+
+```bash
+lip install github.com/Tooth-Hub/LLMoney
+```
+
+## Manual
+
+Download from [Release](https://github.com/LiteLDev/LLMoney/releases)
+
 # Usage
 
 | Command                     | Description                        | Permission |
