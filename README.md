@@ -5,17 +5,17 @@ EconomyCore for [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
 
 # Usage
 
-| Command | Description | Permission |
-| --- | --- | --- |
-| /money query [player] | Query your/other players's balance | Player/OP |
-| /money pay player amount | Transfer money to a player | Player |
-| /money set player amount | Set player's balance | OP |
-| /money add player amount | Add player's balance | OP |
-| /money reduce player amount | Reduce player's balance | OP |
-| /money hist | Print your running account | Player |
-| /money purge | Clear your running account | OP |
-| /money top | Balance ranking | Player |
-| /money_s | Command with TargetSelector | Player |
+| Command                     | Description                        | Permission |
+|-----------------------------|------------------------------------|------------|
+| /money query [player]       | Query your/other players's balance | Player/OP  |
+| /money pay player amount    | Transfer money to a player         | Player     |
+| /money set player amount    | Set player's balance               | OP         |
+| /money add player amount    | Add player's balance               | OP         |
+| /money reduce player amount | Reduce player's balance            | OP         |
+| /money hist                 | Print your running account         | Player     |
+| /money purge                | Clear your running account         | OP         |
+| /money top                  | Balance ranking                    | Player     |
+| /money_s                    | Command with TargetSelector        | Player     |
 
 # Configuration File
 
