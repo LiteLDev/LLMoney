@@ -1,5 +1,5 @@
 # LiteLoaderMoney
-[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LLMoney/build-cmake.yml?style=for-the-badge)](https://github.com/LiteLDev/LLMoney/actions")  
+[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LLMoney/build-cmake.yml?style=for-the-badge)]("https://github.com/LiteLDev/LLMoney/actions")  
 [English](README.md) | 简体中文  
 [LiteLoaderBDS](https://github.com/LiteLDev/BDSLiteLoader)的经济核心
 
