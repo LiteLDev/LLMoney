@@ -1,5 +1,5 @@
-# LiteLoaderPlugins
-[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LLMoney/build-cmake.yml?style=for-the-badge)](https://github.com/LiteLDev/LLMoney/actions")
+# LiteLoaderMoney
+[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LLMoney/build-cmake.yml?style=for-the-badge)](https://github.com/LiteLDev/LLMoney/actions")  
 English | [简体中文](README_zh-cn.md)  
 EconomyCore for [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
 
