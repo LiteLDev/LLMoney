@@ -4,7 +4,7 @@
 #include <regCommandAPI.h>
 #include <EventAPI.h>
 #include "LLMoney.h"
-#include "Money.h"
+#include "Settings.h"
 #include <SQLiteCpp/SQLiteCpp.h>
 
 using namespace RegisterCommandHelper;
