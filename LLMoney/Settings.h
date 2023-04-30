@@ -1,6 +1,6 @@
 #include "Nlohmann/json.hpp"
 
-#define LLMONEY_VERSION ll::Version{ 2,12,0 }
+#define LLMONEY_VERSION ll::Version{ 2,13,0 }
 
 namespace Settings
 {
