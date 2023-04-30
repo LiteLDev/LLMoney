@@ -42,17 +42,17 @@ jobs:
       working-directory: ${{env.GITHUB_WORKSPACE}}
       run: |
         mkdir D:/out/sdk
-        mkdir D:/out/sdk/Lib
-        mkdir D:/out/sdk/Header
+        mkdir D:/out/sdk/lib
+        mkdir D:/out/sdk/header
         mkdir D:/out/plugins
     
     - name: Copy Out Files
       working-directory: ${{env.GITHUB_WORKSPACE}}
       run: |
         cp x64/Release/*.dll D:/out/plugins
-        cp x64/Release/LLMoney.lib D:/out/sdk/Lib
+        cp x64/Release/LLMoney.lib D:/out/sdk/lib
         cp x64/Release/*.pdb D:/out/plugins
-        cp LLMoney/LLMoney.h D:/out/sdk/Header
+        cp src/LLMoney.h D:/out/sdk/header
       shell: bash
 
     - name: Upload plugins
