@@ -4,7 +4,7 @@
 #include "Event.h"
 #include <LoggerAPI.h>
 #include <SQLiteCpp/SQLiteCpp.h>
-#include "Money.h"
+#include "Settings.h"
 
 static std::unique_ptr<SQLite::Database> db;
 Logger moneylog("LLMoney");
