@@ -14,6 +14,18 @@ static const I18nBase::LangData defaultLangData = {
 		{"money.set.succ", "Balance successfully set."},
 		{"money.dontuseinconsole", "Don't use this command in console."}
 	}},
+	{"ru", {
+		{"money.no.target", "Не удаётся найти игрока."},
+		{"money.invalid.arg", "Неправильный аргумент команды, или неизвестная ошибка."},
+		{"money.succ", "Команда выполнена успешно."},
+		{"money.not.enough", "У вас недостаточный баланс."},
+		{"money.no.perm", "У вас нет прав для использования этой команды."},
+		{"money.pay.succ", "Переведено успешно."},
+		{"money.add.succ", "Баланс успешно увеличен."},
+		{"money.reduce.succ", "Баланс успешно уменьшен."},
+		{"money.set.succ", "Баланс успешно установлен."},
+		{"money.dontuseinconsole", "Не используйте эту команду в консоли."}
+	}},
 	{"zh_CN", {
 		{"money.no.target", u8"找不到目标"},
 		{"money.invalid.arg", u8"参数错误或未知错误"},
