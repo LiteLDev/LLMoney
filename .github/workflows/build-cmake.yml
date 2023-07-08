@@ -49,9 +49,9 @@ jobs:
     - name: Copy Out Files
       working-directory: ${{env.GITHUB_WORKSPACE}}
       run: |
-        cp x64/Release/*.dll D:/out/plugins
-        cp x64/Release/LLMoney.lib D:/out/sdk/lib
-        cp x64/Release/*.pdb D:/out/plugins
+        cp build/Release/*.dll D:/out/plugins
+        cp build/Release/LLMoney.lib D:/out/sdk/lib
+        cp build/Release/*.pdb D:/out/plugins
         cp src/LLMoney.h D:/out/sdk/header
       shell: bash
 
