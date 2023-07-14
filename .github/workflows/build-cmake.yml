@@ -78,7 +78,6 @@ jobs:
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
       with:
-        body_path: ${{ github.workspace }}\RELEASE_NOTES.md
         files: |
           D:/out/LLMoney.zip
           D:/out/SDK.zip
