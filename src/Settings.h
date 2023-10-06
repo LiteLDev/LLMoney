@@ -1,6 +1,6 @@
 #include "Nlohmann/json.hpp"
 
-#define LLMONEY_VERSION ll::Version{ 2,15,0 }
+#define LLMONEY_VERSION ll::Version{ 2,16,0 }
 
 namespace Settings {
     extern std::string language;
